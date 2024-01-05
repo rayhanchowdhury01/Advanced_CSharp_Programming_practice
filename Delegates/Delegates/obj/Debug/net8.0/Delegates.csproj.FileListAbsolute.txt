@@ -1,0 +1,15 @@
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\bin\Debug\net8.0\Delegates.exe
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\bin\Debug\net8.0\Delegates.deps.json
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\bin\Debug\net8.0\Delegates.runtimeconfig.json
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\bin\Debug\net8.0\Delegates.dll
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\bin\Debug\net8.0\Delegates.pdb
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\obj\Debug\net8.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\obj\Debug\net8.0\Delegates.AssemblyInfoInputs.cache
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\obj\Debug\net8.0\Delegates.AssemblyInfo.cs
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\obj\Debug\net8.0\Delegates.csproj.CoreCompileInputs.cache
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\obj\Debug\net8.0\Delegates.sourcelink.json
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\obj\Debug\net8.0\Delegates.dll
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\obj\Debug\net8.0\refint\Delegates.dll
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\obj\Debug\net8.0\Delegates.pdb
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\obj\Debug\net8.0\Delegates.genruntimeconfig.cache
+P:\Advanced_CSharp_Programming_practice\Delegates\Delegates\obj\Debug\net8.0\ref\Delegates.dll

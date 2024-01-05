@@ -1,0 +1,15 @@
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\bin\Debug\net8.0\Covariance and Contravariance Delegate.exe
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\bin\Debug\net8.0\Covariance and Contravariance Delegate.deps.json
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\bin\Debug\net8.0\Covariance and Contravariance Delegate.runtimeconfig.json
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\bin\Debug\net8.0\Covariance and Contravariance Delegate.dll
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\bin\Debug\net8.0\Covariance and Contravariance Delegate.pdb
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\obj\Debug\net8.0\Covariance and Contravariance Delegate.GeneratedMSBuildEditorConfig.editorconfig
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\obj\Debug\net8.0\Covariance and Contravariance Delegate.AssemblyInfoInputs.cache
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\obj\Debug\net8.0\Covariance and Contravariance Delegate.AssemblyInfo.cs
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\obj\Debug\net8.0\Covariance and Contravariance Delegate.csproj.CoreCompileInputs.cache
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\obj\Debug\net8.0\Covariance and Contravariance Delegate.sourcelink.json
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\obj\Debug\net8.0\Covariance and Contravariance Delegate.dll
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\obj\Debug\net8.0\refint\Covariance and Contravariance Delegate.dll
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\obj\Debug\net8.0\Covariance and Contravariance Delegate.pdb
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\obj\Debug\net8.0\Covariance and Contravariance Delegate.genruntimeconfig.cache
+P:\Advanced_CSharp_Programming_practice\Covariance and Contravariance Delegate\Covariance and Contravariance Delegate\obj\Debug\net8.0\ref\Covariance and Contravariance Delegate.dll
