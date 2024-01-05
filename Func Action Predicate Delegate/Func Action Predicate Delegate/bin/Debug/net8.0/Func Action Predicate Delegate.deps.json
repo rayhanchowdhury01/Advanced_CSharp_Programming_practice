@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Func Action Predicate Delegate/1.0.0": {
+        "runtime": {
+          "Func Action Predicate Delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Func Action Predicate Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

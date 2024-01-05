@@ -1,0 +1,15 @@
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\bin\Debug\net8.0\Func Action Predicate Delegate.exe
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\bin\Debug\net8.0\Func Action Predicate Delegate.deps.json
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\bin\Debug\net8.0\Func Action Predicate Delegate.runtimeconfig.json
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\bin\Debug\net8.0\Func Action Predicate Delegate.dll
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\bin\Debug\net8.0\Func Action Predicate Delegate.pdb
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\obj\Debug\net8.0\Func Action Predicate Delegate.GeneratedMSBuildEditorConfig.editorconfig
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\obj\Debug\net8.0\Func Action Predicate Delegate.AssemblyInfoInputs.cache
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\obj\Debug\net8.0\Func Action Predicate Delegate.AssemblyInfo.cs
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\obj\Debug\net8.0\Func Action Predicate Delegate.csproj.CoreCompileInputs.cache
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\obj\Debug\net8.0\Func Action Predicate Delegate.sourcelink.json
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\obj\Debug\net8.0\Func Action Predicate Delegate.dll
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\obj\Debug\net8.0\refint\Func Action Predicate Delegate.dll
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\obj\Debug\net8.0\Func Action Predicate Delegate.pdb
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\obj\Debug\net8.0\Func Action Predicate Delegate.genruntimeconfig.cache
+P:\Advanced_CSharp_Programming_practice\Func Action Predicate Delegate\Func Action Predicate Delegate\obj\Debug\net8.0\ref\Func Action Predicate Delegate.dll
