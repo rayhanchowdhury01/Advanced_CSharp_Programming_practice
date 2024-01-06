@@ -1,0 +1,15 @@
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\bin\Debug\net8.0\Delegates  Asynchronous Method Calls.exe
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\bin\Debug\net8.0\Delegates  Asynchronous Method Calls.deps.json
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\bin\Debug\net8.0\Delegates  Asynchronous Method Calls.runtimeconfig.json
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\bin\Debug\net8.0\Delegates  Asynchronous Method Calls.dll
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\bin\Debug\net8.0\Delegates  Asynchronous Method Calls.pdb
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\obj\Debug\net8.0\Delegates  Asynchronous Method Calls.GeneratedMSBuildEditorConfig.editorconfig
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\obj\Debug\net8.0\Delegates  Asynchronous Method Calls.AssemblyInfoInputs.cache
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\obj\Debug\net8.0\Delegates  Asynchronous Method Calls.AssemblyInfo.cs
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\obj\Debug\net8.0\Delegates  Asynchronous Method Calls.csproj.CoreCompileInputs.cache
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\obj\Debug\net8.0\Delegates  Asynchronous Method Calls.sourcelink.json
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\obj\Debug\net8.0\Delegates  Asynchronous Method Calls.dll
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\obj\Debug\net8.0\refint\Delegates  Asynchronous Method Calls.dll
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\obj\Debug\net8.0\Delegates  Asynchronous Method Calls.pdb
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\obj\Debug\net8.0\Delegates  Asynchronous Method Calls.genruntimeconfig.cache
+P:\Advanced_CSharp_Programming_practice\Delegates  Asynchronous Method Calls\Delegates  Asynchronous Method Calls\obj\Debug\net8.0\ref\Delegates  Asynchronous Method Calls.dll
