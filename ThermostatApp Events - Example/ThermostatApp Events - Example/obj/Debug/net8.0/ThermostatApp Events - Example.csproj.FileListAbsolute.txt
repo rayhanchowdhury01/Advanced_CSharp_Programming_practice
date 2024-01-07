@@ -1,0 +1,15 @@
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\bin\Debug\net8.0\ThermostatApp Events - Example.exe
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\bin\Debug\net8.0\ThermostatApp Events - Example.deps.json
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\bin\Debug\net8.0\ThermostatApp Events - Example.runtimeconfig.json
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\bin\Debug\net8.0\ThermostatApp Events - Example.dll
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\bin\Debug\net8.0\ThermostatApp Events - Example.pdb
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\obj\Debug\net8.0\ThermostatApp Events - Example.GeneratedMSBuildEditorConfig.editorconfig
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\obj\Debug\net8.0\ThermostatApp Events - Example.AssemblyInfoInputs.cache
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\obj\Debug\net8.0\ThermostatApp Events - Example.AssemblyInfo.cs
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\obj\Debug\net8.0\ThermostatApp Events - Example.csproj.CoreCompileInputs.cache
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\obj\Debug\net8.0\ThermostatApp Events - Example.sourcelink.json
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\obj\Debug\net8.0\ThermostatApp Events - Example.dll
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\obj\Debug\net8.0\refint\ThermostatApp Events - Example.dll
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\obj\Debug\net8.0\ThermostatApp Events - Example.pdb
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\obj\Debug\net8.0\ThermostatApp Events - Example.genruntimeconfig.cache
+P:\Advanced_CSharp_Programming_practice\ThermostatApp Events - Example\ThermostatApp Events - Example\obj\Debug\net8.0\ref\ThermostatApp Events - Example.dll

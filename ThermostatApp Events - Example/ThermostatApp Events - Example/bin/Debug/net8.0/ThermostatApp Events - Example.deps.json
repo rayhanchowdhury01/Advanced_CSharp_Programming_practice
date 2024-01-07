@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ThermostatApp Events - Example/1.0.0": {
+        "runtime": {
+          "ThermostatApp Events - Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThermostatApp Events - Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
